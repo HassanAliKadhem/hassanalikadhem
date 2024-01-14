@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a highly motivated developer. i like using Typescript, Dart, Flutter and Go
+you can contact me through mey email
+hassanali92.ha@gmail.com
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanAliKadhem&theme=github)
+
+- 🔭 I’m currently working on Wordle (in arabic) and Freshrss mobile client
+- 🌱 I’m currently learning Javascript, Typescript and svelte
 <!--
 **HassanAliKadhem/hassanalikadhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
