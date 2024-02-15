@@ -5,7 +5,7 @@ you can contact me through mey email
 hassanali92.ha@gmail.com
 
 - 🔭 I’m currently working on Wordle (in arabic) and Freshrss mobile client
-- 🌱 I’m currently learning flutter.\, Javascript, Typescript and svelte
+- 🌱 I’m currently learning Flutter, Javascript, Typescript and svelte
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAliKadhem&theme=github)
 
