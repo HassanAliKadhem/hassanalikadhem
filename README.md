@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a highly motivated developer. i like using Typescript, Dart, Flutter and Go
+I am a highly motivated developer. I teach at 🇧🇭 Bahrain polytechnic and i'm also a student at Reboot01 coding institute. i like using Dart, Flutter, Typescript, C#, Java and Go
 you can contact me through mey email
 hassanali92.ha@gmail.com
 
 - 🔭 I’m currently working on Wordle (in arabic) and Freshrss mobile client
-- 🌱 I’m currently learning Javascript, Typescript and svelte
+- 🌱 I’m currently learning flutter.\, Javascript, Typescript and svelte
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAliKadhem&theme=github)
 
