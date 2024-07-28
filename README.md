@@ -4,7 +4,7 @@ I am a highly motivated developer. I teach at 🇧🇭 Bahrain polytechnic and i
 you can contact me through mey email
 hassanali92.ha@gmail.com
 
-- 🔭 I’m currently working on Wordle (in arabic) and Freshrss mobile client
+- 🔭 I’m currently working on my Typing Practice game and a Freshrss mobile client
 - 🌱 I’m currently learning Flutter, Javascript, Typescript and svelte
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAliKadhem&theme=github)
