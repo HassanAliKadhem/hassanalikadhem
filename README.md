@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a highly motivated developer. I teach at 🇧🇭 Bahrain polytechnic and i'm also a student at Reboot01 coding institute. i like using Dart, Flutter, Typescript, C#, Java and Go
-you can contact me through mey email
+you can contact me through my email
 hassanali92.ha@gmail.com
 
 - 🔭 I’m currently working on my Typing Practice game and a Freshrss mobile client
